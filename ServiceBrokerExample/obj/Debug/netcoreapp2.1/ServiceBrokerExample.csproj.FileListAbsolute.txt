@@ -1,0 +1,11 @@
+C:\CoreDeployment\ServiceBrokerExample\ServiceBrokerExample\bin\Debug\netcoreapp2.1\ServiceBrokerExample.deps.json
+C:\CoreDeployment\ServiceBrokerExample\ServiceBrokerExample\bin\Debug\netcoreapp2.1\ServiceBrokerExample.runtimeconfig.json
+C:\CoreDeployment\ServiceBrokerExample\ServiceBrokerExample\bin\Debug\netcoreapp2.1\ServiceBrokerExample.runtimeconfig.dev.json
+C:\CoreDeployment\ServiceBrokerExample\ServiceBrokerExample\bin\Debug\netcoreapp2.1\ServiceBrokerExample.dll
+C:\CoreDeployment\ServiceBrokerExample\ServiceBrokerExample\bin\Debug\netcoreapp2.1\ServiceBrokerExample.pdb
+C:\CoreDeployment\ServiceBrokerExample\ServiceBrokerExample\obj\Debug\netcoreapp2.1\ServiceBrokerExample.csprojAssemblyReference.cache
+C:\CoreDeployment\ServiceBrokerExample\ServiceBrokerExample\obj\Debug\netcoreapp2.1\ServiceBrokerExample.csproj.CoreCompileInputs.cache
+C:\CoreDeployment\ServiceBrokerExample\ServiceBrokerExample\obj\Debug\netcoreapp2.1\ServiceBrokerExample.AssemblyInfoInputs.cache
+C:\CoreDeployment\ServiceBrokerExample\ServiceBrokerExample\obj\Debug\netcoreapp2.1\ServiceBrokerExample.AssemblyInfo.cs
+C:\CoreDeployment\ServiceBrokerExample\ServiceBrokerExample\obj\Debug\netcoreapp2.1\ServiceBrokerExample.dll
+C:\CoreDeployment\ServiceBrokerExample\ServiceBrokerExample\obj\Debug\netcoreapp2.1\ServiceBrokerExample.pdb
